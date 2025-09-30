@@ -1,9 +1,8 @@
-# Dylan Soule's Pet Rock Simulator
+# Dylan Soule's Calculator
 
-This Pet Rock Simulation brings you on an epic journey through pure human experiences and a story one will never forget
-
-During the journey you get to interact with your pet rock, that you get to name, and get to decide what to do  
-These decisions will affect key stats and ultimately lead to endings that will change the way you view life
+This calculator allows you to do basic operations such as addition, subtraction, multiplication, division, and exponentiation  
+The use of the calculator is a little bit more difficult than a conventional as you have to deal with our intern, who really doesn't want to be here, but everyone's gotta get job experience somehow  
+Now, while this doesn't seem like something you want in a calculator, but hopefully you can laugh at just how much they don't want to be there while getting some productive calculations done
 
 ## Requirements
 * Python 3
@@ -19,8 +18,15 @@ Begin by running the file, run the command below in your terminal if you are doi
 ```bash
 cd [file path to calc.py] | python3 calc.py
 ```
-After running the file you will begin to be prompted by our intern, who is really rude, but just deal with them  
-Once you get to the part where you input what you want to do, input in the form of a [operation] b
+After running the file you will begin to be prompted by our intern, who is really rude, but unfortunately we couldn't find another hire, so you're gonna have to deal with them.  
+Once you get to the part where you input what you want to do, input in the form of a [operation] b  
+* examples
+    * 1 + 2 for addition
+    * 2 - 1 for subtraction
+    * 3 * 5 for multiplication
+    * 9 / 3 for division
+    * 2 ^ 5 for exponentiation
+After one operation, you have the option to either do another one or quit the program
 
 
 ### Warning
