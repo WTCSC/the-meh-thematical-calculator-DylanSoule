@@ -1,7 +1,11 @@
 # Dylan Soule's Calculator
 
 This calculator allows you to do basic operations such as addition, subtraction, multiplication, division, and exponentiation  
+
+
 The use of the calculator is a little bit more difficult than a conventional as you have to deal with our intern, who really doesn't want to be here, but everyone's gotta get job experience somehow  
+
+
 Now, while this doesn't seem like something you want in a calculator, but hopefully you can laugh at just how much they don't want to be there while getting some productive calculations done
 
 ## Requirements
