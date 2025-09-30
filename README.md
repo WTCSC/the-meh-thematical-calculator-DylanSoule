@@ -34,7 +34,7 @@ After one operation, you have the option to either do another one or quit the pr
 
 
 ### Warning
-*Our intern is quite bad, but we couldn't find another one, so if you do something that they don't what you to, like inputting the operations wrong, the program will end
+* Our intern is quite bad, but we couldn't find another one, so if you do something that they don't what you to, like inputting the operations wrong, the program will end
 
 
 ## Program Flow
