@@ -29,7 +29,9 @@ Once you get to the part where you input what you want to do, input in the form 
     * 2 - 1 for subtraction
     * 3 * 5 for multiplication
     * 9 / 3 for division
-    * 2 ^ 5 for exponentiation  
+    * 2 ^ 5 for exponentiation
+ 
+
 After one operation, you have the option to either do another one or quit the program
 
 
