@@ -24,7 +24,7 @@ while True:
     else:
         break
     
-    what_to_do = input("Well I guess if you're forcing me to, would you PLEASE put in the operation you would like to do\nYou better do it correctly and im only gonna say it once\ninput a (+,-,*,/,^) b, with spaces, so some examples would be 1 + 2, or 3 * 4 or 9 / 10 or 5 ^ 2. If you don't know what one of these does just give us all an easier time and just don't use it.\nNow get on it, what do you want to do\n")
+    what_to_do = input("Well I guess if you're forcing me to, would you PLEASE put in the operation you would like to do\nYou better do it correctly and im only gonna say it once\nInput a (+,-,*,/,^) b, with spaces, so some examples would be 1 + 2, or 3 * 4 or 9 / 10 or 5 ^ 2. If you don't know what one of these does just give us all an easier time and just don't use it.\nNow get on it, what do you want to do\n")
     
     if what_to_do.count(" ") == 2:
         what_to_do_list = what_to_do.split()
@@ -54,4 +54,4 @@ while True:
 
 
 time.sleep(1)
-print("If you're reading this you either quit or annoyed me enough to make you quite, either way I hope to never see you again, BYE")
+print("If you're reading this you either quit or annoyed me enough to make you quit, either way I hope to never see you again, BYE")

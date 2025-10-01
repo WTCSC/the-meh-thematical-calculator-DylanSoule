@@ -34,6 +34,15 @@ Once you get to the part where you input what you want to do, input in the form 
 
 After one operation, you have the option to either do another one or quit the program
 
+### Code Highlight
+If you input an equation that you enter isn't possible, such as dividing by 0, the program will catch it.
+```python
+if int(b) != 0:
+        return str((int(a)/int(b)))
+    else:
+        return "ERROR, YOUR STUPID BRAIN WANTED TO DIVIDE BY 0, THATS YOUR ANSWER"
+```
+
 
 ### Warning
 * Our intern is quite bad, but we couldn't find another one, so if you do something that they don't what you to, like inputting the operations wrong, the program will end
